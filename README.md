@@ -10,7 +10,7 @@ This project serves as a hands-on exercise for beginners to practice CSS styling
 
 ## Demo
 
-You can view a live demo of the project [ https://xaizen-yota.github.io/Box-Styling-Project/](demo-link).
+You can view a live demo of the project [Click here]( https://xaizen-yota.github.io/Box-Styling-Project/).
 
 ## Features
 
